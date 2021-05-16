@@ -55,4 +55,9 @@ Terminal Output:
 ![Election Results Terminal Output](https://github.com/SethBoswell/Election_Analysis/blob/main/analysis/election_results_terminal.png)
 
 ## Election Audit Summary
-If the election commission wanted to use this script for any election, they could perform the following modifications on my script. 
+If the Election Commission wanted to use this script for any election, they could perform the following modifications on my script. First, they would need to upload a new dataset into my script that contains the information on a different election. Second, they would need to change the name of the output file so that it wouldn't overlap these election results. Specifically, consider the below lines of code from my script:
+
+![Election Results Example Code](https://github.com/SethBoswell/Election_Analysis/blob/main/Resources/example_code.png)
+
+If the Election Comission wanted to run an analysis on an Illinois election, they would upload a new dataset, perhaps named "illinois_election_results.csv" and adjust the first line of code accordingly. If the dataset was formatted in a different way, they would need to modify the scrips to adjust for any formatting differences. Then, they would need to change the second line of code to be a different text file name such as "illinois_election_results.txt".
+
