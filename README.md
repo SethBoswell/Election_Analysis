@@ -47,9 +47,11 @@ Additionally, for the county-level analysis, the election results showed the fol
 Below are the results of the text file and the command terminal produced via Print statements
 
 Text File:
+
 ![Election Results Text File](https://github.com/SethBoswell/Election_Analysis/blob/main/analysis/election_results_notepad.png)
 
 Terminal Output:
+
 ![Election Results Terminal Output](https://github.com/SethBoswell/Election_Analysis/blob/main/analysis/election_results_terminal.png)
 
 ## Election Audit Summary
