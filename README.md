@@ -1,12 +1,12 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has tasked me with performing an election audit for a recent local congressional election and determing the following information:
+A Colorado Board of Elections employee has tasked me with performing an election audit for a recent local congressional election and determining the following information:
 
 1. Determine the total number of votes that were cast in the election
 2. Get a complete list of all the candidates who participated in the election
 3. Determine the number of votes cast for each candidate
-4. Calculate the percentage of votes each candiate won
+4. Calculate the percentage of votes each candidate won
 5. Determine the winner of the election based on which candidate won the largest number and percentage of votes
 
 ## Resources
@@ -15,7 +15,7 @@ A Colorado Board of Elections employee has tasked me with performing an election
 
 ## Summary
 The analysis of the election showed the following:
-- There were 369,711 total vosts cast
+- There were 369,711 total votes cast
 - The candidates were:
    -   Charles Casper Stockham
    -   Diana DeGette
